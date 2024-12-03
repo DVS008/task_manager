@@ -13,7 +13,7 @@ To get started with this project, follow these steps:
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/task_manager.git
+git clone https://github.com/dvs008/task_manager.git
 cd task_manager
 2. Install Dependencies
 Make sure you have Node.js and npm installed. You can download them from nodejs.org.
